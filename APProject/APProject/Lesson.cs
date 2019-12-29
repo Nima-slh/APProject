@@ -8,6 +8,6 @@ namespace APProject
 {
     class Lesson
     {
-
+        private int vahed;
     }
 }
