@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace APProject
 {
-    class Lesson
+    public class Lesson
     {
-        private int vahed;
-        private string name;
+        public int Vahed { get; set; }
+        public string Name { get; set; }
+        public string Type { get; set; }
+        public Lesson[] Pishniaz { get; set; }
+        public Lesson[] Hamniaz { get; set; }
     }
 }

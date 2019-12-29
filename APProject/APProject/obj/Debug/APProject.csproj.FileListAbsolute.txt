@@ -1,1 +1,2 @@
 C:\Users\xyz\Desktop\APProject\APProject\bin\Debug\APProject.exe.config
+C:\Users\xyz\Documents\GitHub\APProject\APProject\APProject\bin\Debug\APProject.exe.config
