@@ -9,5 +9,6 @@ namespace APProject
     class Lesson
     {
         private int vahed;
+        private string name;
     }
 }
